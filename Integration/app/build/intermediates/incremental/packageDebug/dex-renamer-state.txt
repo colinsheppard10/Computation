@@ -1,0 +1,7 @@
+#Sun Dec 04 14:43:28 CST 2016
+base.0=/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fa6297c9ab371c398a67bf39b909eb446caac15e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_81d2f88994373a7b2f96e0ca78b39cac21497ea8/classes.dex
+base.1=/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_81d2f88994373a7b2f96e0ca78b39cac21497ea8
+file.0=/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fa6297c9ab371c398a67bf39b909eb446caac15e/classes.dex

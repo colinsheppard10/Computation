@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Colin/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb/2.3.3/f671a3f320bc0c7cb6e6c2c821289f0aacd6acb9/aws-android-sdk-ddb-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f671a3f320bc0c7cb6e6c2c821289f0aacd6acb9">
+        <dex dex="/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-ddb-2.3.3_6fc726c43df8b0d27f3aa0f5222c9feafd3eba39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Colin/Desktop/Integration/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.0_2d59b3689ec97053a0611af904700d985b679b12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Colin/Desktop/Integration/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b4e482963d085aed005f2f94004533315185c62">
+        <dex dex="/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_81d2f88994373a7b2f96e0ca78b39cac21497ea8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Colin/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-cognito/2.3.3/62d18ff54e5bdb047ff4df01084370cb15e55c3a/aws-android-sdk-cognito-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="62d18ff54e5bdb047ff4df01084370cb15e55c3a">
+        <dex dex="/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-cognito-2.3.3_40af5705bc17fbf3cebbbe2374ac05674f2fcdd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Colin/Desktop/Integration/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.0/jars/libs/internal_impl-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.0_c981d75446d624832c68fa87158c55b8d15dd618/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Colin/Desktop/Integration/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_810ba04ff82fce529d21fef8930822f090ad64a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Colin/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-s3/2.3.3/c573e3c8b9fe81aa502441338155144a6217715f/aws-android-sdk-s3-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c573e3c8b9fe81aa502441338155144a6217715f">
+        <dex dex="/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-s3-2.3.3_9f912db02577034a97bfd367860e4a5e0bd5f0ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Colin/Desktop/Integration/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="34c24505c234367bc6c4b70c8126f08f59d40241">
+        <dex dex="/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fa6297c9ab371c398a67bf39b909eb446caac15e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Colin/Desktop/Integration/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.0_27f443054db333cc747e17a0e53937b65558ec24/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Colin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.0/support-annotations-23.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.0_3b992d38783bc0153ed9e1c12036ddddaafedde6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Colin/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-core/2.3.3/45991c46f31e5fb14777759e0300abc156c6efa8/aws-android-sdk-core-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="45991c46f31e5fb14777759e0300abc156c6efa8">
+        <dex dex="/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-core-2.3.3_62cad937f6036af24f73e3760b69ca381d8ea9f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Colin/.gradle/caches/modules-2/files-2.1/com.amazonaws/aws-android-sdk-ddb-mapper/2.3.3/61fe1df9552f46c8d36f6bc29d90b3915a310b02/aws-android-sdk-ddb-mapper-2.3.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="61fe1df9552f46c8d36f6bc29d90b3915a310b02">
+        <dex dex="/Users/Colin/Desktop/Integration/app/build/intermediates/transforms/dex/debug/folders/1000/10/aws-android-sdk-ddb-mapper-2.3.3_c2941aea80e7b0686857ccb6fdb1523b6b5fb642/classes.dex" />
+    </item>
+
+</items>
